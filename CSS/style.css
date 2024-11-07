@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    padding: 20px;
+}
+h2{
+    background-color: rgb(230, 134, 134);
+    color: aqua;
+    padding: 10px;
+}
+.box{
+    padding: 10px;
+    font-size: 18px;
+}
+button{
+    font-size: 17px;
+    padding: 4px 8px;
+    margin:4px 0;
+    border-radius: 5px;
+}
+#Previous{
+    background-color: rgb(43, 150, 193);
+    color: white;
+}
+#next{
+    background-color: green;
+    color: white;
+}
+#submit{
+    background-color: brown;
+    color: white;
+}
